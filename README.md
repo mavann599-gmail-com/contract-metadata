@@ -1,4 +1,4 @@
-# @metamask/contract-metadata
+G# @metamask/contract-metadata
 
 A mapping of checksummed Ethereum contract addresses to metadata, like names, and images of their logos.
 
